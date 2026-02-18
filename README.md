@@ -84,14 +84,17 @@ If your team is working on **data-driven products** and needs someone who can tu
 
 ## GitHub Stats
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manoj-Sh-AI&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-Sh-AI&theme=tokyonight" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Manoj-Sh-AI&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Sh-AI&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Sh-AI&layout=compact&theme=tokyonight" width="40%" />
 </p>
+>
 
 
 
