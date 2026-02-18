@@ -82,10 +82,15 @@ If your team is working on **data-driven products** and needs someone who can tu
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manoj-Sh-AI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shmanoj2002@gmail.com)
 
-### Github Stats 📊
 
-![Manoj-Sh-AI's GitHub Stats](https://gprm.itsvg.in/api?username=Manoj-Sh-AI&show_icons=true&theme=radical)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Manoj-Sh-AI&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Manoj-Sh-AI&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Sh-AI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Languages](https://gprm.itsvg.in/api/top-langs/?username=Manoj-Sh-AI&layout=compact&theme=radical)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Manoj-Sh-AI&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+[![](https://visitcount.itsvg.in/api?id=Manoj-Sh-AI&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Manoj-Sh-AI&theme=radical)
