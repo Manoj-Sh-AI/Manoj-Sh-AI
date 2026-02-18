@@ -86,8 +86,8 @@ If your team is working on **data-driven products** and needs someone who can tu
 
 <div align="center">
 
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj-Sh-AI&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Sh-AI&layout=compact&theme=radical&hide_border=true&langs_count=8)
+[![Manoj's stats](https://github-readme-stats.vercel.app/api?username=Manoj-Sh-AI&show_icons=true&theme=radical)](https://github.com/Manoj-Sh-AI)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Sh-AI&layout=compact&theme=radical)](https://github.com/Manoj-Sh-AI)
 
 </div>
+
