@@ -78,6 +78,6 @@ If your team is working on **data-driven products** and needs someone who can tu
 
 ### 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/manoj-saligrama-harisha)
+[![LinkedIn](https://www.linkedin.com/in/manoj-saligrama-harisha-6b646b1bb/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manoj-Sh-AI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shmanoj2002@gmail.com)
