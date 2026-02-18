@@ -6,11 +6,14 @@
 
 I'm a **Data Scientist and AI Engineer** based in Hamburg, currently pursuing an MSc in Applied Data Science & Analytics. I design and ship end-to-end, production-ready ML systems that go far beyond experimental notebooks and actually move business metrics in the real world.
 
+🗺️ My Journey (5️⃣ Years - Present)
+Bachelors in CSE --> Data Science Intern --> MSc in Data Science and Analytics --> Junior Data Scientist and AI Engineer @ AICOO
+
 ---
 
-### 🚀 What I work on
+### 🚀 What I work on at AICOO - Chechout [Here](https://aicoo.ai)
 
-- Multi-agent RAG systems for project and risk management, from architecture to deployed FastAPI services
+- Multi-agentic RAG systems for project and risk management, from architecture to deployed FastAPI services
 - ML lifecycle automation (training, evaluation, CI/CD, monitoring, and deployment) for reliable, repeatable delivery
 - Deep learning pipelines for medical imaging, including diabetic retinopathy detection from retinal images
 
