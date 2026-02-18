@@ -84,17 +84,16 @@ If your team is working on **data-driven products** and needs someone who can tu
 
 ## GitHub Stats
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manoj-Sh-AI&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Manoj-Sh-AI&theme=tokyonight" width="49%" />
-</p>
+| Stats | Streak |
+|--------|---------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Manoj-Sh-AI&show_icons=true&theme=github_dark) | ![Streak](https://streak-stats.demolab.com?user=Manoj-Sh-AI&theme=github_dark) |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Sh-AI&layout=compact&theme=tokyonight" width="40%" />
-</p>
->
+| Top Languages |
+|---------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Sh-AI&layout=compact&theme=github_dark) |
+
 
 
 
