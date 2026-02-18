@@ -53,7 +53,7 @@ I'm a **Data Scientist and AI Engineer** based in Hamburg, currently pursuing an
 
 | Degree | Institution | Field | Dates | Location |
 |--------|-------------|-------|-------|----------|
-| MSc Applied Data Science & Analytics | SRH University | Data Science | 04/2025 – Present | Hamburg, DE |
+| MSc Applied Data Science & Analytics | SRH University Berlin, Campus Hamburg | Data Science | 04/2025 – Present | Hamburg, DE |
 | BE Computer Science & Engineering | The National Institute of Engineering | CSE | 12/2020 – 07/2024 | Mysuru, India |
 
 ---
