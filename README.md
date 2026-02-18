@@ -6,7 +6,7 @@
 
 I'm a **Data Scientist and AI Engineer** based in Hamburg, currently pursuing an MSc in Applied Data Science & Analytics. I design and ship end-to-end, production-ready ML systems that go far beyond experimental notebooks and actually move business metrics in the real world.
 
-🗺️ My Journey (5️⃣ Years - Present)
+🗺️ My Journey (5️⃣ Years - Present)<br>
 Bachelors in CSE --> Data Science Intern --> MSc in Data Science and Analytics --> Junior Data Scientist and AI Engineer @ AICOO
 
 ---
