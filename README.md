@@ -1,4 +1,6 @@
 
+<img src="https://github.com/Manoj-Sh-AI/Manoj-Sh-AI/blob/5f27ee22dc189853527357cbac8d3e64eea64375/images/Manoj%20Saligrama%20Harisha.png?raw=true" width="100%" />
+
 ## Hi there 👋 I’m Manoj
 
 I’m a **Data Scientist and AI Engineer** based in Hamburg, currently pursuing an MSc in Applied Data Science & Analytics. I design and ship end-to-end, production-ready ML systems that go far beyond experimental notebooks and actually move business metrics in the real world.
