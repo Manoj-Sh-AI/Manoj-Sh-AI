@@ -13,10 +13,9 @@ Bachelors in CSE --> Data Science Intern --> MSc in Data Science and Analytics -
 
 ### 🚀 What I work on at AICOO - Chechout [Here](https://aicoo.ai)
 
-- Multi-agentic RAG systems for project and risk management, from architecture to deployed FastAPI services
-- ML lifecycle automation (training, evaluation, CI/CD, monitoring, and deployment) for reliable, repeatable delivery
-- Deep learning pipelines for medical imaging, including diabetic retinopathy detection from retinal images
-
+- Where we build AI agents which connects to all the AI agents to Slack, Emails, etc which inturn increases effeciency in Project Management.
+- I am building **Multi-agentic AI systems** for project and risk management, from architecture to deployed FastAPI services.
+- This system analyzes incomming Emails to identify and filter out the emails containing maximum "Risk" and updates in the db.
 ---
 
 ### 🔧 Tech I use daily
@@ -33,6 +32,7 @@ Bachelors in CSE --> Data Science Intern --> MSc in Data Science and Analytics -
 
 - Statistical foundations for robust modeling and experiment design
 - Advanced RAG architectures (evaluation, routing, observability)
+- ML lifecycle automation (training, evaluation, CI/CD, monitoring, and deployment) for reliable, repeatable delivery
 - Scalable ML systems: monitoring, alerting, and feedback loops in production
 
 ---
@@ -40,10 +40,10 @@ Bachelors in CSE --> Data Science Intern --> MSc in Data Science and Analytics -
 ### 📂 Featured projects
 
 - **Diabetic Retinopathy Detection**  
-  End-to-end deep learning pipeline for classifying retinal fundus images into disease stages (research project)
+  End-to-end deep learning pipeline for classifying retinal fundus images into disease stages [![research project](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System)]
 
 - **Multi-Agent RAG for Project Management**  
-  Multi-agent pipeline that retrieves project knowledge, generates constrained resolution options, and integrates with existing workflows
+  Multi-agent pipeline that retrieves project knowledge, generates constrained resolution options, and integrates with existing workflows. ![Example Project](https://github.com/Manoj-Sh-AI/Problem_Resolution_System_Using_RAG)
 
 - **ML Lifecycle Automation**  
   Templates and scripts that automate training, evaluation, and deployment using CI/CD for faster, safer iterations
