@@ -67,9 +67,9 @@ I'm a **Data Scientist and AI Engineer** based in Hamburg, currently pursuing an
 ### 🤝 What I'm looking for
 
 - Roles where I can own the **full ML lifecycle**: from data and problem framing to deployment, monitoring, and iteration
-- Teams building practical RAG systems, AI agents, and data products that deliver measurable business impact
+- Teams building practical **RAG systems, AI agents, and data products that deliver measurable business impact**
 
-If your team is working on data-driven products and needs someone who can turn messy data and vague ideas into production systems, I'd love to connect.
+If your team is working on **data-driven products** and needs someone who can turn messy data and vague ideas into production systems, I'd love to connect.
 
 ---
 
