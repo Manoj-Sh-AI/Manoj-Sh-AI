@@ -86,9 +86,7 @@ If your team is working on **data-driven products** and needs someone who can tu
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Manoj-Sh-AI&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&hide_title=true&card_width=500)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Sh-AI&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+![Metrics](https://metrics.lehieu.dev/embed?user=Manoj-Sh-AI&style=radical)
 
 </div>
 
