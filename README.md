@@ -40,10 +40,10 @@ Bachelors in CSE --> Data Science Intern --> MSc in Data Science and Analytics -
 ### 📂 Featured projects
 
 - **Diabetic Retinopathy Detection**  
-  End-to-end deep learning pipeline for classifying retinal fundus images into disease stages [![research project](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System)]
+  End-to-end deep learning pipeline for classifying retinal fundus images into disease stages [research project](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System)
 
 - **Multi-Agent RAG for Project Management**  
-  Multi-agent pipeline that retrieves project knowledge, generates constrained resolution options, and integrates with existing workflows. ![Example Project](https://github.com/Manoj-Sh-AI/Problem_Resolution_System_Using_RAG)
+  Multi-agent pipeline that retrieves project knowledge, generates constrained resolution options, and integrates with existing workflows. [Example Project](https://github.com/Manoj-Sh-AI/Problem_Resolution_System_Using_RAG)
 
 - **ML Lifecycle Automation**  
   Templates and scripts that automate training, evaluation, and deployment using CI/CD for faster, safer iterations
