@@ -81,3 +81,11 @@ If your team is working on **data-driven products** and needs someone who can tu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-saligrama-harisha-6b646b1bb/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manoj-Sh-AI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shmanoj2002@gmail.com)
+
+### Github Stats 📊
+
+![Manoj-Sh-AI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manoj-Sh-AI&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Sh-AI&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Manoj-Sh-AI&theme=radical)
